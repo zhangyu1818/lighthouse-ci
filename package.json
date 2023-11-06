@@ -1,0 +1,17 @@
+{
+  "name": "lighthouse-ci",
+  "private": true,
+  "main": "main.mjs",
+  "module": "main.mjs",
+  "scripts": {
+    "run": "node main.mjs"
+  },
+  "author": {
+    "name": "zhangyu1818",
+    "url": "https://zhangyu.dev",
+    "email": "hey@zhangyu.dev"
+  },
+  "dependencies": {
+    "lighthouse": "^11.3.0"
+  }
+}
